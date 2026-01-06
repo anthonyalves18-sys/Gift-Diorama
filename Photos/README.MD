@@ -1,6 +1,1 @@
-## Photos
-
-![Diorama overview](photos/overview.jpg)
-
-![Detail view](photos/detail.jpg)
-
+in this file i have a few pictures of a home project i made. within the acryllic box lives an arduino that controls an led strip that syncs to the fall rate of the water droplets, enacting the stroboscopic effect.
